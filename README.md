@@ -1,6 +1,6 @@
 # Meme classification
 
-#  This is my Bachelor's degree thesis project.
+*This is my Bachelor's degree thesis project.*
 
 Federated Learning for Meme Classification
 
